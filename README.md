@@ -4,6 +4,17 @@ A structured knowledge base covering networking, web security, common vulnerabil
 
 This repository documents my learning process and practical understanding of offensive security fundamentals.
 
+## Example structure used in notes
+
+Each topic is documented using the following format:
+
+1. Definition
+2. How it works
+3. Why it is vulnerable
+4. Example attack
+5. Mitigation
+6. Tools used in testing
+
 ---
 
 ## Structure
